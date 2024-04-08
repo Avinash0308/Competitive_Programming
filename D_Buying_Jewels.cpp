@@ -8,8 +8,12 @@ int main(){
     while(t--){
         ll n, k;
         cin>>n>>k;
-        if(k >= n-1) cout<<1<<endl;
-        else cout<<n<<endl;
+        if(n < k){
+            cout<<"NO"<<endl;
+        }
+        else{
+            
+        }
     }
     return 0;
 }
