@@ -7,7 +7,8 @@
         "ostream": "cpp",
         "random": "cpp",
         "deque": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "cmath": "cpp"
     },
     "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
         "clang-diagnostic-error",
