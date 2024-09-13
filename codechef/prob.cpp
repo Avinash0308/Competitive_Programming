@@ -22,7 +22,7 @@ int main(){
             break;
         }
     }
-    if(possible) cout<<"YES"<<endl; // if possible is true, means all eight cells either contain 'x' or are out of matrix, if cell is out of matrix we need to conisder it as 'x'
-    else cout<<"NO"<<endl; // else print no
+    if(possible) cout<<"yes"<<endl; // if possible is true, means all eight cells either contain 'x' or are out of matrix, if cell is out of matrix we need to conisder it as 'x'
+    else cout<<"no"<<endl; // else print no
     return 0;
 }
